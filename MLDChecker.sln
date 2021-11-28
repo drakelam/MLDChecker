@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLDChecker", "MLDChecker\MLDChecker.csproj", "{ADA7AB29-7102-4B49-A14D-7671FC6C3027}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMLDChecker", "SetupMLDChecker\SetupMLDChecker.vdproj", "{350863D3-5413-4A32-B203-11203B94062C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA7AB29-7102-4B49-A14D-7671FC6C3027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA7AB29-7102-4B49-A14D-7671FC6C3027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA7AB29-7102-4B49-A14D-7671FC6C3027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA7AB29-7102-4B49-A14D-7671FC6C3027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350863D3-5413-4A32-B203-11203B94062C}.Debug|Any CPU.ActiveCfg = Debug
+		{350863D3-5413-4A32-B203-11203B94062C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89566A9F-6C07-48B5-9FB5-359893A32888}
+	EndGlobalSection
+EndGlobal
